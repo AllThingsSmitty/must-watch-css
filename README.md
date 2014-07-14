@@ -1,7 +1,9 @@
 Must Watch CSS
 ==============
 
-A useful list of must-watch videos about CSS (inspired by [Sergey Bolshchikov](https://github.com/bolshchikov)'s [js-must-watch](https://github.com/bolshchikov/js-must-watch) repo).
+> A useful list of must-watch videos about CSS (inspired by [Sergey Bolshchikov](https://github.com/bolshchikov)'s [js-must-watch](https://github.com/bolshchikov/js-must-watch) repo).
+
+[![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/AllThingsSmitty) [![](http://img.shields.io/badge/follow%20on-Google%2B-red.svg)] (http://google.com/+MattSmithYo)
 
 
 ###2014
