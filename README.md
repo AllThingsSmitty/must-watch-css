@@ -26,7 +26,14 @@ Must-Watch CSS
 1. [**Maths-Powered Transforms for Creating 3D Shapes**](https://www.youtube.com/watch?v=w9HeWBH_kvg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Ana-Maria Tudor, CSSConf.EU
 1. [**CSS Levels Up**](https://www.youtube.com/watch?v=UpVj5azI-iI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Angelina Fabbro, CSSConf.EU
 1. [**More CSS Secrets: Another 10 Things You May Not Know about CSS**](https://www.youtube.com/watch?v=3ikye7Qc7Ak&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, W3Conf
+1. [**Slaying the Dragon: How to Refactor CSS for Maintainability**](https://www.youtube.com/watch?v=QHfESV9GzVA): Alicia Liu, HTML5DevConf
+1. [**Atomic Cascading Style Sheets**]( https://www.youtube.com/watch?v=ojj_-6Xiud4): Renato Iwashima, HTML5DevConf
 
 ###2012
 1. [**Your CSS Is a Mess**](http://vimeo.com/channels/smashingconf/61755493): Jonathan Snook, Smashing Conference
 1. [**Open Source Tools and Libraries for Designers**](https://www.youtube.com/watch?v=hFdbE6T9QGc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Julie Ann Horvath, HTML5DevConf
+1. [**GitHub's CSS Performance**](https://vimeo.com/54990931): Jon Rohan, CSS Dev Conf
+
+###2010
+1. [**Handcrafted CSS**](https://vimeo.com/17091905): Dan Cederholm, Build Conference
+1. [**The Top 5 Mistakes of Massive CSS**](https://www.youtube.com/watch?v=j6sAm7CLoCQ): Nicole Sullivan, Build Conference
