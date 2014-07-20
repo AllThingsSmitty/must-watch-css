@@ -7,8 +7,8 @@ Must-Watch CSS
 
 
 ###2014
-
 1. [**What Is a CSS Framework Anyway?**](https://vimeo.com/95734680): Harry Roberts, Industry Conf
+1. [**Slaying the Dragon: How to Refactor CSS for Maintainability**](https://vimeo.com/100501790): Alicia Liu, Front-Trends
 1. [**Play Nice With CSS Tools and Methodologies**](https://www.youtube.com/watch?v=-bZSTMLqf8Q&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Brad Westfall, HTML5DevConf
 
 ###2013
@@ -26,7 +26,6 @@ Must-Watch CSS
 1. [**Maths-Powered Transforms for Creating 3D Shapes**](https://www.youtube.com/watch?v=w9HeWBH_kvg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Ana-Maria Tudor, CSSConf.EU
 1. [**CSS Levels Up**](https://www.youtube.com/watch?v=UpVj5azI-iI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Angelina Fabbro, CSSConf.EU
 1. [**More CSS Secrets: Another 10 Things You May Not Know about CSS**](https://www.youtube.com/watch?v=3ikye7Qc7Ak&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, W3Conf
-1. [**Slaying the Dragon: How to Refactor CSS for Maintainability**](https://www.youtube.com/watch?v=QHfESV9GzVA): Alicia Liu, HTML5DevConf
 1. [**Atomic Cascading Style Sheets**]( https://www.youtube.com/watch?v=ojj_-6Xiud4): Renato Iwashima, HTML5DevConf
 
 ###2012
