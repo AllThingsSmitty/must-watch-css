@@ -9,6 +9,7 @@ Must-Watch CSS
 ###2014
 1. [**What Is a CSS Framework Anyway?**](https://vimeo.com/95734680): Harry Roberts, Industry Conf
 1. [**Slaying the Dragon: How to Refactor CSS for Maintainability**](https://vimeo.com/100501790): Alicia Liu, Front-Trends
+1. [**CSS In Your Pocket - Mobile CSS Tips From The Trenches**](https://www.youtube.com/watch?v=vBHt61yDO9U&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Angelina Fabbro, CSSConf.US
 1. [**Play Nice With CSS Tools and Methodologies**](https://www.youtube.com/watch?v=-bZSTMLqf8Q&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Brad Westfall, HTML5DevConf
 
 ###2013
