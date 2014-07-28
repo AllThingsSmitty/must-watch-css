@@ -1,13 +1,14 @@
 Must-Watch CSS
 ==============
 
-> A useful list of must-watch videos about CSS (inspired by [Sergey Bolshchikov](https://github.com/bolshchikov)'s [js-must-watch](https://github.com/bolshchikov/js-must-watch)).
+> A useful list of must-watch videos about CSS.
 
 [![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/AllThingsSmitty) [![](http://img.shields.io/badge/follow%20on-Google%2B-red.svg)] (http://google.com/+MattSmithYo)
 
 
 ###2014
 1. [**What Is a CSS Framework Anyway?**](https://vimeo.com/95734680): Harry Roberts, Industry Conf
+1. [**CSS Is a Mess**](https://vimeo.com/99877232): Jonathan Snook, Beyond Tellerand
 1. [**Slaying the Dragon: How to Refactor CSS for Maintainability**](https://vimeo.com/100501790): Alicia Liu, Front-Trends
 1. [**CSS In Your Pocket - Mobile CSS Tips From The Trenches**](https://www.youtube.com/watch?v=vBHt61yDO9U&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Angelina Fabbro, CSSConf.US
 1. [**Play Nice With CSS Tools and Methodologies**](https://www.youtube.com/watch?v=-bZSTMLqf8Q&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Brad Westfall, HTML5DevConf
@@ -25,12 +26,13 @@ Must-Watch CSS
 1. [**The Mind-blowing Power of Sass 3.3**](https://www.youtube.com/watch?v=-ZJeOJGazgE&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Chris Eppstein, CSSConf.EU
 1. [**Front-End Tools for the Young Developer**](https://www.youtube.com/watch?v=5_nt5qV15po&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Christian Vuerings, SF HTML5 User Group
 1. [**Maths-Powered Transforms for Creating 3D Shapes**](https://www.youtube.com/watch?v=w9HeWBH_kvg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Ana-Maria Tudor, CSSConf.EU
+1. [**Sass and OOCSS Sitting in a Tree K-I-S-S-I-N-G**](https://vimeo.com/66039168): Nicole Sullivan, TXJS
 1. [**CSS Levels Up**](https://www.youtube.com/watch?v=UpVj5azI-iI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Angelina Fabbro, CSSConf.EU
+1. [**Architecting Scalable CSS**](https://vimeo.com/70041549): Harry Roberts, Beyond Tellerand
 1. [**More CSS Secrets: Another 10 Things You May Not Know about CSS**](https://www.youtube.com/watch?v=3ikye7Qc7Ak&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, W3Conf
 1. [**Atomic Cascading Style Sheets**]( https://www.youtube.com/watch?v=ojj_-6Xiud4): Renato Iwashima, HTML5DevConf
 
 ###2012
-1. [**Your CSS Is a Mess**](http://vimeo.com/channels/smashingconf/61755493): Jonathan Snook, Smashing Conference
 1. [**Open Source Tools and Libraries for Designers**](https://www.youtube.com/watch?v=hFdbE6T9QGc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Julie Ann Horvath, HTML5DevConf
 1. [**GitHub's CSS Performance**](https://vimeo.com/54990931): Jon Rohan, CSS Dev Conf
 
