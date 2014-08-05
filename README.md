@@ -10,7 +10,8 @@ Must-Watch CSS
 1. [**What Is a CSS Framework Anyway?**](https://vimeo.com/95734680): Harry Roberts, Industry Conf
 1. [**CSS Is a Mess**](https://vimeo.com/99877232): Jonathan Snook, Beyond Tellerand
 1. [**Slaying the Dragon: How to Refactor CSS for Maintainability**](https://vimeo.com/100501790): Alicia Liu, Front-Trends
-1. [**CSS In Your Pocket - Mobile CSS Tips From The Trenches**](https://www.youtube.com/watch?v=vBHt61yDO9U&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Angelina Fabbro, CSSConf.US
+1. [**CSS in Your Pocket - Mobile CSS Tips from the Trenches**](https://www.youtube.com/watch?v=vBHt61yDO9U&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Angelina Fabbro, CSSConf.US
+1. [**Styling and Animating Scalable Vector Graphics with CSS**](https://www.youtube.com/watch?v=hI9roqOKKO8&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Sara Soueidan, CSSConf.US
 1. [**Play Nice With CSS Tools and Methodologies**](https://www.youtube.com/watch?v=-bZSTMLqf8Q&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Brad Westfall, HTML5DevConf
 
 ###2013
