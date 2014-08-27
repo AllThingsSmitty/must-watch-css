@@ -13,6 +13,7 @@ Must-Watch CSS
 1. [**CSS in Your Pocket - Mobile CSS Tips from the Trenches**](https://www.youtube.com/watch?v=vBHt61yDO9U&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Angelina Fabbro, CSSConf.US [34:19]
 1. [**Styling and Animating Scalable Vector Graphics with CSS**](https://www.youtube.com/watch?v=hI9roqOKKO8&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Sara Soueidan, CSSConf.US [38:59]
 1. [**Play Nice With CSS Tools and Methodologies**](https://www.youtube.com/watch?v=-bZSTMLqf8Q&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Brad Westfall, HTML5DevConf [42:47]
+1. [**Effortless Style**](http://vimeo.com/101718785): Heydon Pickering, CSS Day [49:51]
 
 ###2013
 1. [**When Bootstrap Attacks**](https://www.youtube.com/watch?v=xbpnqbM6cRk&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Pamela Fox, CSSConf.US [28:48]
