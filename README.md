@@ -35,7 +35,7 @@ Must-Watch CSS
 1. [**Atomic Cascading Style Sheets**]( https://www.youtube.com/watch?v=ojj_-6Xiud4): Renato Iwashima, HTML5DevConf `52:33`
 
 ###2012
-1. [**Open Source Tools and Libraries for Designers**](https://www.youtube.com/watch?v=hFdbE6T9QGc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Julie Ann Horvath, HTML5DevConf [29:39]
+1. [**Open Source Tools and Libraries for Designers**](https://www.youtube.com/watch?v=hFdbE6T9QGc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Julie Ann Horvath, HTML5DevConf `29:39`
 1. [**GitHub's CSS Performance**](https://vimeo.com/54990931): Jon Rohan, CSS Dev Conf `40:50`
 
 ###2010
