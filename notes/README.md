@@ -15,8 +15,8 @@ Please add your own notes when you watch these or any other talks.
 ## Table of Contents
   1. [Mental framework](#mental-framework)
   1. [Clear Class names](#clear-class-names)
-  1. [Handy for search and replace](#namespace-search)
-    1. [By component](#namespace-component)
+  1. [Handy for search and replacee](#namespace-search)
+    1. [By componentt](#namespace-component)
     1. [Keep your JS separate](#namespace-js)
     1. [During refactors](#namespace-refactor)
   1. [Remove unused CSS](#unused-css)
@@ -40,7 +40,7 @@ In general I didn't take notes on implementation since it's likely to change, it
 
 
 ## <a name='clear-class-names'>Clear Class names</a>
-This topic seemed to come up the most. There were differing opinons about how to define "clear," some of which are mentioned below. No matter how you decide to define "clear" it should be consistent and the entire team should subscribe to the same method.
+This topic seemed to come up the most. There were differing opinions about how to define "clear," some of which are mentioned below. No matter how you decide to define "clear" it should be consistent and the entire team should subscribe to the same method.
 
 "Names shoud clarify intent."
 
@@ -49,12 +49,12 @@ Don't tie the name to how the element looks (`.red-alert` vs. `.alert`) - what h
 
 Don't use too many class names (`.btn .big-btn .click-me` vs `.action-btn`). (See: [use mixins]((#use-mixins)) Or do the reverse...
 ###<a name='ideologies'> Ideologies</a>
-* Some people think that class names should deal with the content of an element (e.g. `.book-title`). This can have problems when the code is written litterally (`.new-roman-title`) and then something changes (`.new-roman-title` now needs to be in helvetica).
-* Others think the class names should only handle what the content looks like (e.g. `.large-text`). (Hint: Twitter-Bootstrap is, by neccessity, this option since it doesn't know what your content is.) This can lead to lots of classes (`.small.box.border.rounded-coners`).
+* Some people think that class names should deal with the content of an element (e.g. `.book-title`). This can have problems when the code is written literally (`.new-roman-title`) and then something changes (`.new-roman-title` now needs to be in helvetica).
+* Others think the class names should only handle what the content looks like (e.g. `.large-text`). (Hint: Twitter-Bootstrap is, by necessity, this option since it doesn't know what your content is.) This can lead to lots of classes (`.small.box.border.rounded-coners`).
 
 ###<a name='namespace-class-names'> Name space (prefix/postfix) your class names</a>
 #### <a name='namespace-search'>Handy for search and replace</a>
-If you ever have to do a global find and replace, it'll be much eaiser if your class names are quite unique (`.title` vs. `.book-title`). Also, CSS is faster for individual class names than for many nested ones (`.book-title` vs `.book .title`).
+If you ever have to do a global find and replace, it'll be much easier if your class names are quite unique (`.title` vs. `.book-title`). Also, CSS is faster for individual class names than for many nested ones (`.book-title` vs `.book .title`).
 
 #### <a name='namespace-component'>By component</a>
 It's nice to name space your class names to the component they're for (`.heading` vs. `.profile-heading`). It will help keep similar items together, as well as letting you know where the class is used. This can also be useful for new features that may not go live - you'll be able to tell which CSS is relevant and delete it if needed.
@@ -103,8 +103,8 @@ Often these rules are from bootstrap or the like, so they can be hard to remove 
 If you're using a preprocessor you can use mixins or extends to:
 * minimize duplication of code,
 * only write the rules for selectors you're using (rather than bulk importing something like Bootsrap),
-* can help keep class names discriptive (although that's also up to you!), and
-* take care of vender prefixing
+* can help keep class names descriptive (although that's also up to you!), and
+* take care of vendor prefixing
 
 Yes, using Mixins or Extends might result in a little extra CSS, but that's probably worth it to have cleaner Sass/Less/etc.
 
@@ -122,12 +122,12 @@ Yes, using Mixins or Extends might result in a little extra CSS, but that's prob
 * [Play Nice With CSS Tools and Methodologies](https://www.youtube.com/watch?v=-bZSTMLqf8Q&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)
 * [CSS Is a Mess](https://vimeo.com/99877232)
 
-## <a name='group-code'>Group code / modules logicially</a>
+## <a name='group-code'>Group code / modules logically</a>
 A future developer is going to make changes. How can you make their life as easy as possible? (Reminder: This future developer is likely to be you.)
 
 Think of your site in pieces (modules); how you can reuse these modules?
 * Group code for the same module together
-* Keep each module free standing (shoudln't need to have deeply nested / specific selectors).
+* Keep each module free standing (shouldn't need to have deeply nested / specific selectors).
 * Possibly have similar class names for the elements in the module.
 
 Think through how you can best communicate to the future developer what things go together and any conventions you're following.
@@ -204,7 +204,7 @@ Frameworks can have a lot of problems so think it through before you use one. So
 ## <a name='style-guide'>Have a style guide</a>
 Be consistent:
 * Are you going to write your own style guide or borrow someone else's? (Tip: check the references to see if anyone has a styleguide you already like)
-* Pixels vs. ems vs. percentages - are the all alowed? Are there any suggestions about when to use what?
+* Pixels vs. ems vs. percentages - are the all allowed? Are there any suggestions about when to use what?
 * Are you allowed to style IDs? elements?
 * White space?
 * Should all the CSS pass or be run through a linter?
@@ -219,13 +219,13 @@ Be consistent:
 
 
 ## <a name='dos-donts'>Some Dos and Don'ts</a>
-These came from many talks, some of which contradicted each other. Hopefully these are an accurate overview of generally accepted best practices that came from the talks. Of course none of these "rules" shoud be followed exactly, there will always be exceptions. They're more like guidelines.
+These came from many talks, some of which contradicted each other. Hopefully these are an accurate overview of generally accepted best practices that came from the talks. Of course none of these "rules" should be followed exactly, there will always be exceptions. They're more like guidelines.
 
 * Use separate style sheets
     * Don't use inline or header style rules
 * Have specific class names (`.header-title`)
     * Don't have long selectors (`.header .title h1`)
-    * Don't use very specific slectors (`.head > #nav`)
+    * Don't use very specific selectors (`.head > #nav`)
 * Take time to refactor periodically
     * Don't assume you need to start from scratch
     * Don't let bad code stay around - over time the overall quality will decrease
