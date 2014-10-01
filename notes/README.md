@@ -12,7 +12,24 @@ Notes for the following talks:
 
 Please add your own notes when you watch these or any other talks.
 
-## Mental framework
+## Table of Contents
+  1. [Mental framework](#mental-framework)
+  1. [Clear Class names](#clear-class-names)
+  1. [Handy for search and replace](#namespace-search)
+    1. [By component](#namespace-component)
+    1. [Keep your JS separate](#namespace-js)
+    1. [During refactors](#namespace-refactor)
+  1. [Remove unused CSS](#unused-css)
+  1. [Use Mixins or Extends](#use-mixins)
+  1. [Group code / modules logicially](#group-code)
+  1. [Visual regression tests](#visual-regression-tests)
+  1. [Responsive CSS](#responsive)
+  1. [Use a preprocessor](#preprocessor)
+  1. [Think about a framework / UI toolkit](#frameworks)
+  1. [Have a style guide](#style-guide)
+  1. [Some Dos and Don'ts](#dos-donts)
+
+## <a name='mental-framework'>Mental framework</a>
 A good framework for thinking about the topics presented in the talks was discussed in [Play Nice With CSS Tools and Methodologies](https://www.youtube.com/watch?v=-bZSTMLqf8Q&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA). I'd recommend watching that one early on just to have some clear categories for the other talks. He broke all discussions down into 4 categories:
 1. Patterns
 1. Implementation
@@ -22,7 +39,7 @@ A good framework for thinking about the topics presented in the talks was discus
 In general I didn't take notes on implementation since it's likely to change, it's (fairly) easy to Google, and it's only applicable in certain cases.
 
 
-## Clear Class names
+## <a name='clear-class-names'>Clear Class names</a>
 This topic seemed to come up the most. There were differing opinons about how to define "clear," some of which are mentioned below. No matter how you decide to define "clear" it should be consistent and the entire team should subscribe to the same method.
 
 "Names shoud clarify intent."
@@ -31,23 +48,23 @@ This topic seemed to come up the most. There were differing opinons about how to
 Don't tie the name to how the element looks (`.red-alert` vs. `.alert`) - what happens if the color changes?
 
 Don't use too many class names (`.btn .big-btn .click-me` vs `.action-btn`). (See: [use mixins]((#use-mixins)) Or do the reverse...
-### Ideologies
+###<a name='ideologies'> Ideologies</a>
 * Some people think that class names should deal with the content of an element (e.g. `.book-title`). This can have problems when the code is written litterally (`.new-roman-title`) and then something changes (`.new-roman-title` now needs to be in helvetica).
 * Others think the class names should only handle what the content looks like (e.g. `.large-text`). (Hint: Twitter-Bootstrap is, by neccessity, this option since it doesn't know what your content is.) This can lead to lots of classes (`.small.box.border.rounded-coners`).
 
-### Name space (prefix/postfix) your class names
-#### Handy for search and replace
+###<a name='namespace-class-names'> Name space (prefix/postfix) your class names</a>
+#### <a name='namespace-search'>Handy for search and replace</a>
 If you ever have to do a global find and replace, it'll be much eaiser if your class names are quite unique (`.title` vs. `.book-title`). Also, CSS is faster for individual class names than for many nested ones (`.book-title` vs `.book .title`).
 
-#### By component
+#### <a name='namespace-component'>By component</a>
 It's nice to name space your class names to the component they're for (`.heading` vs. `.profile-heading`). It will help keep similar items together, as well as letting you know where the class is used. This can also be useful for new features that may not go live - you'll be able to tell which CSS is relevant and delete it if needed.
 
-#### Keep your JS separate
+#### <a name='namespace-js'>Keep your JS separate</a>
 It's also a good idea to prefix the class names you use for JS. (Think `.modal-btn` vs. `.modal-btn .js-modal`.) That way the CSS should never need to change the class names that JS uses.
 
 Or you could use the data attributes. As it [turns out](http://stackoverflow.com/questions/9181526/jquery-performance-select-by-data-attr-or-by-class) it's about the same speed.
 
-#### During refactors
+#### <a name='namespace-refactor'>During refactors</a>
 Namespace your old selectors with `-old`. (You could namespace your new selectors with `-new`, but then you'll need to update them all when you remove the old styles.) This has advantages:
 1. you know you're not going to conflict with exiting styles,
 1. you can do a global find and replace to remove the old styles, and
@@ -65,7 +82,7 @@ Namespace your old selectors with `-old`. (You could namespace your new selector
 * [Architecting Scalable CSS](https://vimeo.com/70041549)
 
 
-## Remove unused CSS
+## <a name='unused-css'>Remove unused CSS</a>
 
 The CSS file is larger if you have CSS that you're not using, therefore your site loads more slowly. It's best practice to remove rules that the site doesn't need.
 
@@ -79,10 +96,10 @@ Often these rules are from bootstrap or the like, so they can be hard to remove 
 * [uncss](https://github.com/giakki/uncss)
 * You can use a grunt task to run over your site and only write the CSS rules you actually use.
 
-### Talks
+### Talks:
 * [Automating the Removal of Unused CSS](https://www.youtube.com/watch?v=833xr1MyE30&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)
 
-## [Use Mixins or Extends](#use-mixins)
+## <a name='use-mixins'>Use Mixins or Extends</a>
 If you're using a preprocessor you can use mixins or extends to:
 * minimize duplication of code,
 * only write the rules for selectors you're using (rather than bulk importing something like Bootsrap),
@@ -105,7 +122,7 @@ Yes, using Mixins or Extends might result in a little extra CSS, but that's prob
 * [Play Nice With CSS Tools and Methodologies](https://www.youtube.com/watch?v=-bZSTMLqf8Q&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)
 * [CSS Is a Mess](https://vimeo.com/99877232)
 
-## Group code / modules logicially
+## <a name='group-code'>Group code / modules logicially</a>
 A future developer is going to make changes. How can you make their life as easy as possible? (Reminder: This future developer is likely to be you.)
 
 Think of your site in pieces (modules); how you can reuse these modules?
@@ -120,44 +137,44 @@ Think through how you can best communicate to the future developer what things g
 * [shame.css](http://csswizardry.com/2013/04/shame-css/) group all your terrible hacks together (basically a "to-be-refactored" file).
 * [pattern lab](http://patternlab.io/)
 
-### Talks
+### Talks:
 * [Architecting Scalable CSS](https://vimeo.com/70041549).
 * [CSS Is a Mess](https://vimeo.com/99877232)
 
 
-## Visual regression tests
+## <a name='visual-regression-tests'>Visual regression tests</a>
 Use visual regression testing to find any changes to the display of the site after CSS changes. Visual regression tests are generally quite brittle (you might not care about that 1px shift, but it will register as a test fail), but might make you more secure when you refactor any CSS.
 
 This certainly isn't industry standard yet, or even an agreed "good practice" but it might make your life easier, so it's probably worth looking into.
 
-### Tools
+### Tools:
 * [Huxley](https://github.com/facebook/huxley)
 * [Needle](https://github.com/bfirsh/needle)
 * [PhantomCSS](https://github.com/Huddle/PhantomCSS)
 * [Browser Stack](http://www.browserstack.com/) to see your site in different browsers
 * I couldn't find a good blog post about the pros and cons of visual regression testing, but I'm sure it's not as clear as "you should do it"
 
-### Talks
+### Talks:
 * [Automated CSS Testing](https://www.youtube.com/watch?v=2PU6JX4S7zI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)
 * [When Bootstrap Attacks](https://www.youtube.com/watch?v=xbpnqbM6cRk&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)
 * [Slaying the Dragon: How to Refactor CSS for Maintainability](https://vimeo.com/100501790)
 
 
-## Responsive CSS
+## <a name='responsive'>Responsive CSS</a>
 It's must easier to make the CSS responsive from the beginning than to add it in later. Rough out how the layout for desktop and mobile should work first before getting concerned about how the individual elements should look. Do lots of browser testing at this point to make sure the big-picture layout works on everything.
 
 Note: Android 2.3 is really behind, if you're going to support it, make sure you're testing with it from the beginning
 
-### Tools
+### Tools:
 * [Firefox responsive design view](https://developer.mozilla.org/en-US/docs/Tools/Responsive_Design_View)
 * [Chrome device emulator](https://developer.chrome.com/devtools/docs/device-mode)
 * [quirksmode.org](quirksmode.org)
 * [list of device bugs](github.com/scottjehl/Device-Bugs/issues)
 
-### Talks
+### Talks:
 * [CSS in Your Pocket - Mobile CSS Tips from the Trenches](https://www.youtube.com/watch?v=vBHt61yDO9U) - has a lot of in depth discussion about particular gotchas not listed here
 
-## Use a preprocessor
+## <a name='preprocessor'>Use a preprocessor</a>
 Most of the talks mentioned using a preprocessor of some kind. Look into them and decide if it's right for you/your team.
 
 ### Blog posts:
@@ -169,7 +186,7 @@ Most of the talks mentioned using a preprocessor of some kind. Look into them an
 * [Less](https://github.com/less/less.js)
 * [Stylus](https://github.com/LearnBoost/stylus)
 
-## Think about a framework / UI toolkit
+## <a name='frameworks'>Think about a framework / UI toolkit</a>
 Frameworks can have a lot of problems so think it through before you use one. Some relevant questions:
 * How will you use it (mixins or class names)?
 * Will it help you in the long run or do you think you'll end up fighting it?
@@ -178,13 +195,13 @@ Frameworks can have a lot of problems so think it through before you use one. So
 * Does it support all the browsers your site is supposed to support?
 * Are you doing lots of custom CSS? Does the framework support this well?
 
-### Tools
+### Tools:
 * [Framework comparison](http://usablica.github.io/front-end-frameworks/compare.html)
 
-### Talks
+### Talks:
 * [What Is a CSS Framework Anyway?](https://vimeo.com/95734680)
 
-## Have a style guide
+## <a name='style-guide'>Have a style guide</a>
 Be consistent:
 * Are you going to write your own style guide or borrow someone else's? (Tip: check the references to see if anyone has a styleguide you already like)
 * Pixels vs. ems vs. percentages - are the all alowed? Are there any suggestions about when to use what?
@@ -196,12 +213,12 @@ Be consistent:
 * Do you care about ordering the properties in a given rule (alphabetical, browser prefixed first, other)?
 * Include some "dos" and "don'ts".
 
-### References
+### References:
 * [List of style guides](http://css-tricks.com/css-style-guides/)
 * [CSS Lint](http://csslint.net/) and a [post](https://2002-2012.mattwilcox.net/archive/entry/id/1054/) about why it might not be great
 
 
-## Some Dos and Don'ts
+## <a name='dos-donts'>Some Dos and Don'ts</a>
 These came from many talks, some of which contradicted each other. Hopefully these are an accurate overview of generally accepted best practices that came from the talks. Of course none of these "rules" shoud be followed exactly, there will always be exceptions. They're more like guidelines.
 
 * Use separate style sheets
@@ -229,7 +246,7 @@ These came from many talks, some of which contradicted each other. Hopefully the
     * Don't chuck `!important` on your rules without really justifying it
     * Decide on naming conventions to help clear up how the classes / modules interact
 
-### Talks
+### Talks:
 * [Slaying the Dragon: How to Refactor CSS for Maintainability](https://vimeo.com/100501790)
 * [Architecting Scalable CSS](https://vimeo.com/70041549).
 * [CSS in Your Pocket - Mobile CSS Tips from the Trenches](https://www.youtube.com/watch?v=vBHt61yDO9U)
