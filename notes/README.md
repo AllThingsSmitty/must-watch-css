@@ -30,7 +30,7 @@ Please add your own notes when you watch these or any other talks.
   1. [Some Dos and Don'ts](#dos-donts)
 
 ## <a name='mental-framework'>Mental framework</a>
-A good framework for thinking about the topics presented in the talks was discussed in [Play Nice With CSS Tools and Methodologies](https://www.youtube.com/watch?v=-bZSTMLqf8Q&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA). I'd recommend watching that one early on just to have some clear categories for the other talks. He broke all discussions down into 4 categories:
+[Play Nice With CSS Tools and Methodologies](https://www.youtube.com/watch?v=-bZSTMLqf8Q&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA) discussed a good framework for thinking about the topics presented in the talks. I'd recommend watching that one early on just to have some clear categories for the other talks. He broke all discussions down into 4 categories:
 1. Patterns
 1. Implementation
 1. Ideology
@@ -42,15 +42,15 @@ In general I didn't take notes on implementation since it's likely to change, it
 ## <a name='clear-class-names'>Clear Class names</a>
 This topic seemed to come up the most. There were differing opinions about how to define "clear," some of which are mentioned below. No matter how you decide to define "clear" it should be consistent and the entire team should subscribe to the same method.
 
-"Names shoud clarify intent."
+"Names should clarify intent."
 
 
 Don't tie the name to how the element looks (`.red-alert` vs. `.alert`) - what happens if the color changes?
 
 Don't use too many class names (`.btn .big-btn .click-me` vs `.action-btn`). (See: [use mixins]((#use-mixins)) Or do the reverse...
 ###<a name='ideologies'> Ideologies</a>
-* Some people think that class names should deal with the content of an element (e.g. `.book-title`). This can have problems when the code is written literally (`.new-roman-title`) and then something changes (`.new-roman-title` now needs to be in helvetica).
-* Others think the class names should only handle what the content looks like (e.g. `.large-text`). (Hint: Twitter-Bootstrap is, by necessity, this option since it doesn't know what your content is.) This can lead to lots of classes (`.small.box.border.rounded-coners`).
+* Some people think that class names should deal with the content of an element (e.g. `.book-title`). This can have problems when the code is literal (`.new-roman-title`) and then something changes (`.new-roman-title` now needs to be in helvetica).
+* Others think the class names should only handle what the content looks like (e.g. `.large-text`). (Hint: Twitter-Bootstrap is, by necessity, this option. It doesn't know what your content is.) This can lead to lots of classes (`.small.box.border.rounded-coners`).
 
 ###<a name='namespace-class-names'> Name space (prefix/postfix) your class names</a>
 #### <a name='namespace-search'>Handy for search and replace</a>
@@ -84,9 +84,9 @@ Namespace your old selectors with `-old`. (You could namespace your new selector
 
 ## <a name='unused-css'>Remove unused CSS</a>
 
-The CSS file is larger if you have CSS that you're not using, therefore your site loads more slowly. It's best practice to remove rules that the site doesn't need.
+The CSS file is larger if you have CSS that you're not using, and your site loads slower. It's best practice to remove rules that the site doesn't need.
 
-However, it can be pretty difficult to know which CSS rules are absolutely not used. There are a few tools for this, listed below. You can also try adding a postfix for any existing class names you don't think are being used (something like `-to-delete`). Then go over your site, see if anything is broken, and find which of the class names have the postfix and are on that page. Of course, this is easier if you have visual regression tests to go over your site to find broken elements.
+However, it can be pretty difficult to know which CSS rules are absolutely not used. There are a few tools for this, listed below. You can also try adding a postfix for any existing class names you don't think are used (something like `-to-delete`). Then go over your site, see if anything broke, and find which of the class names have the postfix and are on that page. Of course, this is easier if you have visual regression tests to go over your site to find broken elements.
 
 It's a good idea to check your site periodically so you only have to remove a few rules at a time rather than a bunch all in one go.
 
@@ -94,7 +94,7 @@ Often these rules are from bootstrap or the like, so they can be hard to remove 
 
 ### Tools:
 * [uncss](https://github.com/giakki/uncss)
-* You can use a grunt task to run over your site and only write the CSS rules you actually use.
+* You can use a grunt task to run over your site and only write the used CSS rules.
 
 ### Talks:
 * [Automating the Removal of Unused CSS](https://www.youtube.com/watch?v=833xr1MyE30&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)
@@ -143,9 +143,9 @@ Think through how you can best communicate to the future developer what things g
 
 
 ## <a name='visual-regression-tests'>Visual regression tests</a>
-Use visual regression testing to find any changes to the display of the site after CSS changes. Visual regression tests are generally quite brittle (you might not care about that 1px shift, but it will register as a test fail), but might make you more secure when you refactor any CSS.
+Use visual regression testing to find any changes to the display of the site after CSS changes. Visual regression tests are generally quite brittle (you might not care about that 1px shift, but it will register as a test fail). But having them around might make you more secure when you refactor any CSS.
 
-This certainly isn't industry standard yet, or even an agreed "good practice" but it might make your life easier, so it's probably worth looking into.
+This isn't industry standard yet, or even an agreed "good practice" but it might make your life easier, so it's probably worth looking into.
 
 ### Tools:
 * [Huxley](https://github.com/facebook/huxley)
@@ -161,7 +161,7 @@ This certainly isn't industry standard yet, or even an agreed "good practice" bu
 
 
 ## <a name='responsive'>Responsive CSS</a>
-It's must easier to make the CSS responsive from the beginning than to add it in later. Rough out how the layout for desktop and mobile should work first before getting concerned about how the individual elements should look. Do lots of browser testing at this point to make sure the big-picture layout works on everything.
+It's must easier to make the CSS responsive from the beginning than to add it in later. Rough out how the layout for desktop and mobile should work. Then worry about how the individual elements should look. Do lots of browser testing at this point to make sure the big-picture layout works on everything.
 
 Note: Android 2.3 is really behind, if you're going to support it, make sure you're testing with it from the beginning
 
@@ -191,8 +191,8 @@ Frameworks can have a lot of problems so think it through before you use one. So
 * How will you use it (mixins or class names)?
 * Will it help you in the long run or do you think you'll end up fighting it?
     *  If you need it for a quick prototype, but don't want it in your final version, does everyone invloved know it's going to go? How can you change your workflow to make it easier to remove it in the future?
-* What are the pros and, probably more important, cons of this particular framework?
-* Does it support all the browsers your site is supposed to support?
+* What are the pros and, more important, cons of this particular framework?
+* Does it support all the browsers your site supports?
 * Are you doing lots of custom CSS? Does the framework support this well?
 
 ### Tools:
@@ -207,7 +207,7 @@ Be consistent:
 * Pixels vs. ems vs. percentages - are the all allowed? Are there any suggestions about when to use what?
 * Are you allowed to style IDs? elements?
 * White space?
-* Should all the CSS pass or be run through a linter?
+* Should all the CSS pass or go through a linter?
 * If you're using a preprocessor, how do you break down your files for inclusion (by module, by page, something else)?
 * How much should you comment?
 * Do you care about ordering the properties in a given rule (alphabetical, browser prefixed first, other)?
@@ -228,7 +228,7 @@ These came from many talks, some of which contradicted each other. Hopefully the
     * Don't use very specific selectors (`.head > #nav`)
 * Take time to refactor periodically
     * Don't assume you need to start from scratch
-    * Don't let bad code stay around - over time the overall quality will decrease
+    * Don't let bad code stay around - over time the quality will decrease
 * Make your layout first
     * Don't add responsive after the fact
     * Test your layout in many browsers while you're creating it
@@ -243,7 +243,7 @@ These came from many talks, some of which contradicted each other. Hopefully the
     * Don't use border-radius, box-shadow, or transform (if you can help it)
     * Don't have unused CSS
 * Think through specificity and plan out how your classes should interact
-    * Don't chuck `!important` on your rules without really justifying it
+    * Don't chuck `!important` on your rules without justifying it
     * Decide on naming conventions to help clear up how the classes / modules interact
 
 ### Talks:
