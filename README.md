@@ -14,6 +14,7 @@ Must-Watch CSS
 1. [**Styling and Animating Scalable Vector Graphics with CSS**](https://www.youtube.com/watch?v=hI9roqOKKO8&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Sara Soueidan, CSSConf.US `38:59`
 1. [**Play Nice With CSS Tools and Methodologies**](https://www.youtube.com/watch?v=-bZSTMLqf8Q&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Brad Westfall, HTML5DevConf `42:47`
 1. [**Effortless Style**](http://vimeo.com/101718785): Heydon Pickering, CSS Day `49:51`
+1. [**CSS: Yawn to Yay!**](https://vimeo.com/99916682) Kyle Simpson, Front-Trends `39:04`
 
 ###2013
 1. [**When Bootstrap Attacks**](https://www.youtube.com/watch?v=xbpnqbM6cRk&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Pamela Fox, CSSConf.US `28:48`
