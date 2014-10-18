@@ -3,9 +3,6 @@ Must-Watch CSS
 
 > A useful list of must-watch videos about CSS.
 
-[![](http://img.shields.io/badge/follow%20on-Twitter-blue.svg)](http://twitter.com/AllThingsSmitty) [![](http://img.shields.io/badge/follow%20on-Google%2B-red.svg)] (http://google.com/+MattSmithYo)
-
-
 ###2014
 1. [**What Is a CSS Framework Anyway?**](https://vimeo.com/95734680): Harry Roberts, Industry Conf `48:48`
 1. [**CSS Is a Mess**](https://vimeo.com/99877232): Jonathan Snook, Beyond Tellerand `53:49`
