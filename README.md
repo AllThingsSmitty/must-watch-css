@@ -6,6 +6,7 @@ Must-Watch CSS
 ###2014
 1. [**What Is a CSS Framework Anyway?**](https://vimeo.com/95734680): Harry Roberts, Industry Conf `48:48`
 1. [**CSS Is a Mess**](https://vimeo.com/99877232): Jonathan Snook, Beyond Tellerand `53:49`
+1. [**10 Commandments for Efficient CSS Architecture**](https://www.youtube.com/watch?v=FYcu-wWrNqo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Kushagra Gour, CSSConf.Asia `35:55`
 1. [**Slaying the Dragon: How to Refactor CSS for Maintainability**](https://vimeo.com/100501790): Alicia Liu, Front-Trends `33:21`
 1. [**CSS in Your Pocket - Mobile CSS Tips from the Trenches**](https://www.youtube.com/watch?v=vBHt61yDO9U&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Angelina Fabbro, CSSConf.US `34:19`
 1. [**Styling and Animating Scalable Vector Graphics with CSS**](https://www.youtube.com/watch?v=hI9roqOKKO8&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Sara Soueidan, CSSConf.US `38:59`
