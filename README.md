@@ -18,6 +18,7 @@ Must-Watch CSS
 1. [**Thinking Beyond "Scalable CSS"**](https://www.youtube.com/watch?v=L8w3v9m6G04&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Nicolas Gallagher, dotCSS `28:46`
 1. [**Web Components & the Future of CSS**](https://www.youtube.com/watch?v=QHxrr6Q82yI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Philip Walton, SFHTML5 `40:02`
 1. [**CSS Performance Tooling**](https://www.youtube.com/watch?v=FEs2jgZBaQA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Addy Osmani, CSSConf.EU `46:27`
+1. [**3.14 Things I Didn't Know About CSS**](https://www.youtube.com/watch?v=WjP7TEKB7Uo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Mathias Bynens, CSSConf.EU `28:34`
 1. [**Effortless Style**](http://vimeo.com/101718785): Heydon Pickering, CSS Day `49:51`
 1. [**CSS: Yawn to Yay!**](https://vimeo.com/99916682) Kyle Simpson, Front-Trends `39:04`
 
