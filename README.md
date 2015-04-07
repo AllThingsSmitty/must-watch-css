@@ -4,6 +4,7 @@ Must-Watch CSS
 > A useful list of must-watch videos about CSS.
 
 ###2015
+1. [**mdo-ular CSS**](http://jqueryuk.com/2015/videos.php?s=mdo-ular-css): Mark Otto, jQuery UK `30:06`
 
 ###2014
 1. [**What Is a CSS Framework Anyway?**](https://vimeo.com/95734680): Harry Roberts, Industry Conf `48:48`
@@ -11,7 +12,7 @@ Must-Watch CSS
 1. [**10 Commandments for Efficient CSS Architecture**](https://www.youtube.com/watch?v=FYcu-wWrNqo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Kushagra Gour, CSSConf.Asia `35:55`
 1. [**Slaying the Dragon: How to Refactor CSS for Maintainability**](https://vimeo.com/100501790): Alicia Liu, Front-Trends `33:21`
 1. [**CSS in Your Pocket - Mobile CSS Tips from the Trenches**](https://www.youtube.com/watch?v=vBHt61yDO9U&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Angelina Fabbro, CSSConf.US `34:19`
-1. [**Styling and Animating Scalable Vector Graphics with CSS**](https://www.youtube.com/watch?v=hI9roqOKKO8&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Sara Soueidan, CSSConf.US `38:59`
+1. [**Styling and Animating Scalable Vector Graphics with CSS**](https://www.youtube.com/watch?v=lf7L8X6ZBu8&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Sara Soueidan, CSSConf.EU `29:16`
 1. [**Play Nice With CSS Tools and Methodologies**](https://www.youtube.com/watch?v=-bZSTMLqf8Q&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Brad Westfall, HTML5DevConf `42:47`
 1. [**CSS and the Critical Path**](https://www.youtube.com/watch?v=_0Fk85to6hA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Patrick Hamann, CSSConf.EU `33:42`
 1. [**All the Right Moves: How to Put Your UI in Motion**](http://new.livestream.com/accounts/6779986/events/2928486/videos/51426837): Val Head, Multi-Mania `45:49`
