@@ -4,9 +4,12 @@ Must-Watch CSS
 > A useful list of must-watch videos about CSS.
 
 ###2015
+
 1. [**mdo-ular CSS**](http://jqueryuk.com/2015/videos.php?s=mdo-ular-css): Mark Otto, jQuery UK `30:06`
 
+
 ###2014
+
 1. [**What Is a CSS Framework Anyway?**](https://vimeo.com/95734680): Harry Roberts, Industry Conf `48:48`
 1. [**CSS Is a Mess**](https://vimeo.com/99877232): Jonathan Snook, Beyond Tellerand `53:49`
 1. [**10 Commandments for Efficient CSS Architecture**](https://www.youtube.com/watch?v=FYcu-wWrNqo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Kushagra Gour, CSSConf.Asia `35:55`
@@ -24,7 +27,9 @@ Must-Watch CSS
 1. [**Effortless Style**](http://vimeo.com/101718785): Heydon Pickering, CSS Day `49:51`
 1. [**CSS: Yawn to Yay!**](https://vimeo.com/99916682) Kyle Simpson, Front-Trends `39:04`
 
+
 ###2013
+
 1. [**When Bootstrap Attacks**](https://www.youtube.com/watch?v=xbpnqbM6cRk&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Pamela Fox, CSSConf.US `28:48`
 1. [**CSS in the 4th Dimension**](https://www.youtube.com/watch?v=NTJUFQmHbvc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, JSConf.Asia `44:49`
 1. [**Automated CSS Testing**](https://www.youtube.com/watch?v=2PU6JX4S7zI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Jakob Mattsson, JSConf.Asia `42:07`
@@ -43,10 +48,14 @@ Must-Watch CSS
 1. [**More CSS Secrets: Another 10 Things You May Not Know about CSS**](https://www.youtube.com/watch?v=3ikye7Qc7Ak&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, W3Conf `60:39`
 1. [**Atomic Cascading Style Sheets**]( https://www.youtube.com/watch?v=ojj_-6Xiud4): Renato Iwashima, HTML5DevConf `52:33`
 
+
 ###2012
+
 1. [**Open Source Tools and Libraries for Designers**](https://www.youtube.com/watch?v=hFdbE6T9QGc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Julie Ann Horvath, HTML5DevConf `29:39`
 1. [**GitHub's CSS Performance**](https://vimeo.com/54990931): Jon Rohan, CSS Dev Conf `40:50`
 
+
 ###2010
+
 1. [**Handcrafted CSS**](https://vimeo.com/17091905): Dan Cederholm, Build Conference `44:29`
 1. [**The Top 5 Mistakes of Massive CSS**](https://www.youtube.com/watch?v=j6sAm7CLoCQ): Nicole Sullivan, Build Conference `37:53`
