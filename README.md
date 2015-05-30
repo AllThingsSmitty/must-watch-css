@@ -1,7 +1,7 @@
 Must-Watch CSS
 ==============
 
-This is a collection of well-received talks about CSS, covering topics including CSS frameworks, Sass, SVG, animation, scalability, CSS performance, tooling, mobile tips, and more.
+This is a collection of well-received talks about CSS, covering topics such as CSS frameworks, Sass, SVG, animation, scalability, CSS performance, tooling, mobile tips, and more.
 
 >For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
