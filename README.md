@@ -7,8 +7,8 @@ This is a collection of well-received talks about CSS, covering topics such as C
 
 
 ###2015
-
 1. [**mdo-ular CSS**](http://jqueryuk.com/2015/videos.php?s=mdo-ular-css): Mark Otto, jQuery UK `30:06`
+1. [**You Very Own Component Library**](https://www.youtube.com/watch?v=zSYo7m5kGHQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Alex Sexton, JSConf.AR `20:03`
 
 
 ###2014
