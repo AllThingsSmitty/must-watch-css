@@ -20,6 +20,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**CSS in Your Pocket - Mobile CSS Tips from the Trenches**](https://www.youtube.com/watch?v=vBHt61yDO9U&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Angelina Fabbro, CSSConf.US `34:19`
 1. [**Styling and Animating Scalable Vector Graphics with CSS**](https://www.youtube.com/watch?v=lf7L8X6ZBu8&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Sara Soueidan, CSSConf.EU `29:16`
 1. [**Play Nice With CSS Tools and Methodologies**](https://www.youtube.com/watch?v=-bZSTMLqf8Q&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Brad Westfall, HTML5DevConf `42:47`
+1. [**Build Scalable, Automated CSS**](https://www.youtube.com/watch?v=Tk_0qYEFtAY&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Christian Lilley, CSSConf.Asia `48:47`
 1. [**CSS and the Critical Path**](https://www.youtube.com/watch?v=_0Fk85to6hA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Patrick Hamann, CSSConf.EU `33:42`
 1. [**All the Right Moves: How to Put Your UI in Motion**](http://new.livestream.com/accounts/6779986/events/2928486/videos/51426837): Val Head, Multi-Mania `45:49`
 1. [**Present and Future of CSS Layout**](https://vimeo.com/98746172): Tab Atkins, CSS Day `49:31`
