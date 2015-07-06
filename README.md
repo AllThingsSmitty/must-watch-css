@@ -10,6 +10,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**mdo-ular CSS**](http://jqueryuk.com/2015/videos.php?s=mdo-ular-css): Mark Otto, jQuery UK `30:06`
 1. [**PostCSS: The Future After Sass and LESS**](https://www.youtube.com/watch?v=1yUFTrAxTzg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Andrey Sitnik, CSSConf.US `29:09`
 1. [**Your Very Own Component Library**](https://www.youtube.com/watch?v=zSYo7m5kGHQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Alex Sexton, JSConf.AR `20:03`
+1. [**Let's Move**](https://www.youtube.com/watch?v=J6wUmQDQBkw&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Benjamin De Cook, CSSConf.AU `24.52`
 1. [**Motion Design with CSS**](https://www.youtube.com/watch?v=TjsXqt-UxLo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Val Head, OpenVis Conf `29:39`
 1. [**Inline Styles Are About to Kill CSS**](https://www.youtube.com/watch?v=NoaxsCi13yQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Colin Megill, CSSConf.US `36:11`
 
