@@ -11,6 +11,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**Your Very Own Component Library**](https://www.youtube.com/watch?v=zSYo7m5kGHQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Alex Sexton, JSConf.AR `20:03`
 1. [**Let's Move**](https://www.youtube.com/watch?v=J6wUmQDQBkw&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Benjamin De Cock, CSSConf.AU `24.52`
 1. [**Motion Design with CSS**](https://www.youtube.com/watch?v=TjsXqt-UxLo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Val Head, OpenVis Conf `29:39`
+1. [**Cascading Shit Show**](https://www.youtube.com/watch?v=iniwPUEbPUM&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Jacob Thornton, Code Genius ``
 1. [**Inline Styles Are About to Kill CSS**](https://www.youtube.com/watch?v=NoaxsCi13yQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Colin Megill, CSSConf.US `36:11`
 
 
