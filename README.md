@@ -2,7 +2,7 @@
 
 This is a collection of well-received talks about CSS, covering topics such as CSS frameworks, Sass, SVG, animation, scalability, CSS performance, tooling, mobile tips, and more.
 
-> Like JavaScript? Check out [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)! For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
+> **Like JavaScript? Check out [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
 
 ###2015
@@ -47,13 +47,10 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**Normalizing Designs for Better Quality CSS**](https://www.youtube.com/watch?v=ldx4ZFxMEeo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Harry Roberts, CSSConf.EU `43:40`
 1. [**Automating the Removal of Unused CSS**](https://www.youtube.com/watch?v=833xr1MyE30&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Addy Osmani, Velocity Europe Conference `5:57`
 1. [**The Humble Border-Radius**](https://www.youtube.com/watch?v=2iFw2GCOPj0&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, Future of Web Design `37:07`
-1. [**The Mind-blowing Power of Sass 3.3**](https://www.youtube.com/watch?v=-ZJeOJGazgE&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Chris Eppstein, CSSConf.EU `38:54`
-1. [**Front-End Tools for the Young Developer**](https://www.youtube.com/watch?v=5_nt5qV15po&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Christian Vuerings, SF HTML5 User Group `14:16`
-1. [**Maths-Powered Transforms for Creating 3D Shapes**](https://www.youtube.com/watch?v=w9HeWBH_kvg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Ana-Maria Tudor, CSSConf.EU `30:27`
 1. [**Sass and OOCSS Sitting in a Tree K-I-S-S-I-N-G**](https://vimeo.com/66039168): Nicole Sullivan, TXJS `27:50`
-1. [**CSS Levels Up**](https://www.youtube.com/watch?v=UpVj5azI-iI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Angelina Fabbro, CSSConf.EU `31:38`
 1. [**Architecting Scalable CSS**](https://vimeo.com/70041549): Harry Roberts, Beyond Tellerand `41:57`
 1. [**More CSS Secrets: Another 10 Things You May Not Know about CSS**](https://www.youtube.com/watch?v=3ikye7Qc7Ak&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, W3Conf `60:39`
+1. [**Maths-Powered Transforms for Creating 3D Shapes**](https://www.youtube.com/watch?v=w9HeWBH_kvg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Ana-Maria Tudor, CSSConf.EU `30:27`
 1. [**Atomic Cascading Style Sheets**]( https://www.youtube.com/watch?v=ojj_-6Xiud4): Renato Iwashima, HTML5DevConf `52:33`
 
 
