@@ -28,7 +28,6 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**CSS and the Critical Path**](https://www.youtube.com/watch?v=_0Fk85to6hA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Patrick Hamann, CSSConf.EU `33:42`
 1. [**All the Right Moves: How to Put Your UI in Motion**](http://new.livestream.com/accounts/6779986/events/2928486/videos/51426837): Val Head, Multi-Mania `45:49`
 1. [**Present and Future of CSS Layout**](https://vimeo.com/98746172): Tab Atkins, CSS Day `49:31`
-1. [**Managing CSS Projects with ITCSS**](https://www.youtube.com/watch?v=1OKZOV-iLj4&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Harry Roberts, DaFED `1:13:51`
 1. [**Thinking Beyond "Scalable CSS"**](https://www.youtube.com/watch?v=L8w3v9m6G04&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Nicolas Gallagher, dotCSS `28:46`
 1. [**Web Components & the Future of CSS**](https://www.youtube.com/watch?v=QHxrr6Q82yI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Philip Walton, SFHTML5 `40:02`
 1. [**CSS Performance Tooling**](https://www.youtube.com/watch?v=FEs2jgZBaQA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Addy Osmani, CSSConf.EU `46:27`
