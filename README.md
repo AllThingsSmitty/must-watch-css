@@ -35,6 +35,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**CSS Performance Tooling**](https://www.youtube.com/watch?v=FEs2jgZBaQA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Addy Osmani, CSSConf.EU `46:27`
 1. [**3.14 Things I Didn’t Know About CSS**](https://vimeo.com/100264064): Mathias Bynens, CSS Day `45:35`
 1. [**Effortless Style**](http://vimeo.com/101718785): Heydon Pickering, CSS Day `49:51`
+1. [**The Chroma Zone**](https://youtu.be/qqbZBnLVn74): Lea Verou, CSSConf Australia `45:24`
 
 
 ###2013
