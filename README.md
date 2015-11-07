@@ -1,4 +1,4 @@
-![Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css/blob/master/media/logo.png)
+<img src="https://github.com/AllThingsSmitty/must-watch-css/blob/master/media/logo.png" width="300" height="417" alt="TV icon">
 
 # Must-Watch CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
