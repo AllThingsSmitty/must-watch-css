@@ -1,11 +1,13 @@
-#Must-Watch CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![Must-Watch CSS](media/logo.svg =300x)
+
+# Must-Watch CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a collection of well-received talks about CSS, covering topics such as CSS frameworks, Sass, SVG, animation, scalability, CSS performance, tooling, mobile tips, and more.
 
 > **Like JavaScript? Check out [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
 
-###2015
+### 2015
 1. [**mdo-ular CSS**](http://jqueryuk.com/2015/videos.php?s=mdo-ular-css): Mark Otto, jQuery UK `30:06`
 1. [**PostCSS: The Future After Sass and LESS**](https://www.youtube.com/watch?v=1yUFTrAxTzg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Andrey Sitnik, CSSConf.US `29:09`
 1. [**Your Very Own Component Library**](https://www.youtube.com/watch?v=zSYo7m5kGHQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Alex Sexton, JSConf.AR `20:03`
@@ -17,7 +19,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**Photoshop Is Dead!: Editing Images in CSS**](https://www.youtube.com/watch?v=LY65F2e4B5w&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Una Kravets, CSSConf.EU `28:42`
 
 
-###2014
+### 2014
 
 1. [**What Is a CSS Framework Anyway?**](https://vimeo.com/95734680): Harry Roberts, Industry Conf `48:48`
 1. [**CSS Is a Mess**](https://vimeo.com/99877232): Jonathan Snook, Beyond Tellerand `53:49`
@@ -38,7 +40,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**Effortless Style**](http://vimeo.com/101718785): Heydon Pickering, CSS Day `49:51`
 
 
-###2013
+### 2013
 
 1. [**When Bootstrap Attacks**](https://www.youtube.com/watch?v=xbpnqbM6cRk&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Pamela Fox, CSSConf.US `28:48`
 1. [**CSS in the 4th Dimension**](https://www.youtube.com/watch?v=NTJUFQmHbvc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, JSConf.Asia `44:49`
@@ -55,13 +57,13 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**Atomic Cascading Style Sheets**]( https://www.youtube.com/watch?v=ojj_-6Xiud4): Renato Iwashima, HTML5DevConf `52:33`
 
 
-###2012
+### 2012
 
 1. [**Open Source Tools and Libraries for Designers**](https://www.youtube.com/watch?v=hFdbE6T9QGc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Julie Ann Horvath, HTML5DevConf `29:39`
 1. [**GitHub's CSS Performance**](https://vimeo.com/54990931): Jon Rohan, CSS Dev Conf `40:50`
 
 
-###2010
+### 2010
 
 1. [**Handcrafted CSS**](https://vimeo.com/17091905): Dan Cederholm, Build Conference `44:29`
 1. [**The Top 5 Mistakes of Massive CSS**](https://www.youtube.com/watch?v=j6sAm7CLoCQ): Nicole Sullivan, Build Conference `37:53`
