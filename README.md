@@ -20,6 +20,8 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**Let's Talk About Our CSS**](https://www.youtube.com/watch?v=NHpSmJrEvRQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Michelle Bu, TXJS `18:11`
 1. [**Photoshop Is Dead!: Editing Images in CSS**](https://www.youtube.com/watch?v=LY65F2e4B5w&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Una Kravets, CSSConf.EU `28:42`
 1. [**Enhancing Responsiveness With Flexbox**](https://www.youtube.com/watch?v=_98SE8WUvLk&index=10&list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9): Zoe M. Gillenwater, CSSConf.EU `37:13`
+1. [**Move Slow and Fix Things**](https://www.youtube.com/watch?v=zmjfh099zYg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Daniel Eden, dotCSS `15:06`
+
 
 ### 2014
 
@@ -56,7 +58,6 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**Sass and OOCSS Sitting in a Tree K-I-S-S-I-N-G**](https://vimeo.com/66039168): Nicole Sullivan, TXJS `27:50`
 1. [**Architecting Scalable CSS**](https://vimeo.com/70041549): Harry Roberts, Beyond Tellerand `41:57`
 1. [**More CSS Secrets: Another 10 Things You May Not Know about CSS**](https://www.youtube.com/watch?v=3ikye7Qc7Ak&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, W3Conf `60:39`
-1. [**Atomic Cascading Style Sheets**]( https://www.youtube.com/watch?v=ojj_-6Xiud4): Renato Iwashima, HTML5DevConf `52:33`
 
 
 ### 2012
