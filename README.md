@@ -9,6 +9,11 @@ This is a collection of well-received talks about CSS, covering topics such as C
 > **Like JavaScript? Check out [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
 
+* [Contribution Guidelines](CONTRIBUTING.md)
+
+-
+
+
 ### 2015
 1. [**mdo-ular CSS**](http://jqueryuk.com/2015/videos.php?s=mdo-ular-css): Mark Otto, jQuery UK `30:06`
 1. [**PostCSS: The Future After Sass and LESS**](https://www.youtube.com/watch?v=1yUFTrAxTzg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Andrey Sitnik, CSSConf.US `29:09`
