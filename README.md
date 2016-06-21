@@ -28,6 +28,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**Cascading Shit Show**](https://www.youtube.com/watch?v=iniwPUEbPUM&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Jacob Thornton, Code Genius `42:07`
 1. [**Inline Styles Are About to Kill CSS**](https://www.youtube.com/watch?v=NoaxsCi13yQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Colin Megill, CSSConf.US `36:11`
 1. [**Let's Talk About Our CSS**](https://www.youtube.com/watch?v=NHpSmJrEvRQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Michelle Bu, TXJS `18:11`
+1. [**CSS for Software Engineers for CSS Developers**](https://vimeo.com/140641366): Harry Roberts, SmashingConf Freiburg `51:14`
 1. [**Photoshop Is Dead!: Editing Images in CSS**](https://www.youtube.com/watch?v=LY65F2e4B5w&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Una Kravets, CSSConf.EU `28:42`
 1. [**Enhancing Responsiveness With Flexbox**](https://www.youtube.com/watch?v=_98SE8WUvLk&index=10&list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9): Zoe M. Gillenwater, CSSConf.EU `37:13`
 1. [**Move Slow and Fix Things**](https://www.youtube.com/watch?v=zmjfh099zYg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Daniel Eden, dotCSS `15:06`
@@ -46,7 +47,6 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**CSS and the Critical Path**](https://www.youtube.com/watch?v=_0Fk85to6hA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Patrick Hamann, CSSConf.EU `33:42`
 1. [**All the Right Moves: How to Put Your UI in Motion**](http://new.livestream.com/accounts/6779986/events/2928486/videos/51426837): Val Head, Multi-Mania `45:49`
 1. [**Present and Future of CSS Layout**](https://vimeo.com/98746172): Tab Atkins, CSS Day `49:31`
-1. [**Managing CSS Projects with ITCSS**](https://www.youtube.com/watch?v=1OKZOV-iLj4&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Harry Roberts, DaFED `1:13:51`
 1. [**Thinking Beyond "Scalable CSS"**](https://www.youtube.com/watch?v=L8w3v9m6G04&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Nicolas Gallagher, dotCSS `28:46`
 1. [**Web Components & the Future of CSS**](https://www.youtube.com/watch?v=QHxrr6Q82yI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Philip Walton, SFHTML5 `40:02`
 1. [**CSS Performance Tooling**](https://www.youtube.com/watch?v=FEs2jgZBaQA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Addy Osmani, CSSConf.EU `46:27`
@@ -60,7 +60,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**CSS in the 4th Dimension**](https://www.youtube.com/watch?v=NTJUFQmHbvc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, JSConf.Asia `44:49`
 1. [**Automated CSS Testing**](https://www.youtube.com/watch?v=2PU6JX4S7zI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Jakob Mattsson, JSConf.Asia `42:07`
 1. [**CSSConf.EU Keynote**](https://www.youtube.com/watch?v=ue-Z_HxS3cc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Nicole Sullivan, CSSConf.EU `20:57`
-1. [**CSS Application Architecture**](https://vimeo.com/74359951): Nicolas Gallagher, SmashingConf `38:36`
+1. [**CSS Application Architecture**](https://vimeo.com/74359951): Nicolas Gallagher, SmashingConf Freiburg `38:36`
 1. [**Realigning & Refactoring UI**](https://www.youtube.com/watch?v=I82ytAWxzrI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Jina Bolton, SassConf `48:08`
 1. [**Normalizing Designs for Better Quality CSS**](https://www.youtube.com/watch?v=ldx4ZFxMEeo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Harry Roberts, CSSConf.EU `43:40`
 1. [**Automating the Removal of Unused CSS**](https://www.youtube.com/watch?v=833xr1MyE30&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Addy Osmani, Velocity Europe Conference `5:57`
