@@ -17,6 +17,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 ### 2016
 
 1. [**CSS in 2016 and Beyond**](https://www.youtube.com/watch?v=9AG35HCBpo4): Christian Vuerings, SFHTML5 `17:15`
+1. [**Reactive Animations with CSS Variables**](https://www.youtube.com/watch?v=lTCukb6Zn3g&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): David Khourshid, JSConf Iceland `31:02`
 
 
 ### 2015
