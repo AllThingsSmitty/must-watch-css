@@ -22,6 +22,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**Practical Blend Modes in CSS**](https://vimeo.com/184235576): Una Kravets, SmashingConf Freiburg `47:04`
 1. [**Real Art Direction on the Web**](https://www.youtube.com/watch?v=5Z7lSSMwRgo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Jen Simmons, View Source Conference `31:41`
 1. [**You Might Not Need a CSS Framework**](https://www.youtube.com/watch?v=5FdHqVDlXu0&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Belen Albeza, View Source Conference `22:46`
+1. [**The Dark Side of Polyfilling CSS**](https://www.youtube.com/watch?v=ZskP7cvj3WA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Philip Walton, dotCSS `22:57`
 
 
 ### 2015
