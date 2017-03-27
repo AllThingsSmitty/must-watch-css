@@ -11,8 +11,6 @@ This is a collection of well-received talks about CSS, covering topics such as C
 
 * [Contribution Guidelines](CONTRIBUTING.md)
 
--
-
 
 ### 2016
 
