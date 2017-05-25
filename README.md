@@ -12,6 +12,11 @@ This is a collection of well-received talks about CSS, covering topics such as C
 * [Contribution Guidelines](CONTRIBUTING.md)
 
 
+### 2017
+
+1. [**CSS and the First Meaningful Paint**](https://www.youtube.com/watch?v=4pQ2byAoIX0&t=16s&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Patrick Hamann, CSSConf.EU `37:56`
+
+
 ### 2016
 
 1. [**CSS in 2016 and Beyond**](https://www.youtube.com/watch?v=9AG35HCBpo4): Christian Vuerings, SFHTML5 `17:15`
