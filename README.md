@@ -14,6 +14,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 
 ### 2017
 
+1. [**CSS Grid Changes Everything (About Web Layouts)**](https://www.youtube.com/watch?v=7kVeCqQCxlk&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Morten Rand-Hendriksen, WordCamp Europe, `32:06`
 1. [**CSS and the First Meaningful Paint**](https://www.youtube.com/watch?v=4pQ2byAoIX0&t=16s&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Patrick Hamann, CSSConf.EU `37:56`
 
 
