@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://rawgit.com/AllThingsSmitty/must-watch-css/master/media/logo.svg" alt="TV icon">
+  <img src="https://rawgit.com/AllThingsSmitty/must-watch-css/master/media/logo.svg" width="200" alt="TV icon">
 </p>
 
 # Must-Watch CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
