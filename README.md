@@ -22,8 +22,9 @@ This is a collection of well-received talks about CSS, covering topics such as C
 ### 2016
 
 1. [**CSS in 2016 and Beyond**](https://www.youtube.com/watch?v=9AG35HCBpo4): Christian Vuerings, SFHTML5 `17:15`
-1. [**Reactive Animations with CSS Variables**](https://www.youtube.com/watch?v=lTCukb6Zn3g&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): David Khourshid, JSConf Iceland `31:02`
+1. [**CSS Variables: var(--subtitle)**](https://www.youtube.com/watch?v=2an6-WVPuJU): Lea Verou, CSSConf `56:57`
 1. [**Laying out the Future with Grid and Flexbox**](https://www.youtube.com/watch?v=ibeF6rbzD70&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Rachel Andrew, View Source Conference `25:45`
+1. [**Reactive Animations with CSS Variables**](https://www.youtube.com/watch?v=lTCukb6Zn3g&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): David Khourshid, JSConf Iceland `31:02`
 1. [**Practical Blend Modes in CSS**](https://vimeo.com/184235576): Una Kravets, SmashingConf Freiburg `47:04`
 1. [**Real Art Direction on the Web**](https://www.youtube.com/watch?v=5Z7lSSMwRgo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Jen Simmons, View Source Conference `31:41`
 1. [**You Might Not Need a CSS Framework**](https://www.youtube.com/watch?v=5FdHqVDlXu0&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Belen Albeza, View Source Conference `22:46`
