@@ -15,6 +15,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 ### 2018
 
 1. [**Resilient CSS: How to Write CSS That Works in Every Browser, Even the Old Ones**](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/): Jen Simmons (Layout Land playlist) `55:04`
+1. [**Creative Text Effects with CSS**](https://www.youtube.com/watch?v=9EU7urOl1LE): Mandy Michael, Talk.CSS `40:46`
 
 
 ### 2017
