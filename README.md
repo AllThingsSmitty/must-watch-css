@@ -12,6 +12,11 @@ This is a collection of well-received talks about CSS, covering topics such as C
 * [Contribution Guidelines](CONTRIBUTING.md)
 
 
+### 2019
+
+1. [**Using Devtools to Understand Modern CSS Layouts**](https://www.youtube.com/watch?v=ZRtzk0371tk): Chen Hui Jing, CSSConf.EU  `32:39`
+
+
 ### 2018
 
 1. [**Resilient CSS: How to Write CSS That Works in Every Browser, Even the Old Ones**](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/): Jen Simmons (Layout Land playlist) `55:04`
