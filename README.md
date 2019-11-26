@@ -14,6 +14,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 
 ### 2019
 
+1. [**Build a Classic Layout FAST in CSS Grid**](https://www.youtube.com/watch?v=KOvGeFUHAC0): Miriam Suzanne, (Mozilla Developer YouTube Channel) `8:29`
 1. [**Using Devtools to Understand Modern CSS Layouts**](https://www.youtube.com/watch?v=ZRtzk0371tk): Chen Hui Jing, CSSConf EU `32:39`
 1. [**Hello Subgrid!**](https://www.youtube.com/watch?v=vxOj7CaWiPU): Rachel Andrew, CSSConf EU `32:56`
 
