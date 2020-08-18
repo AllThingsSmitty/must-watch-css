@@ -12,6 +12,10 @@ This is a collection of well-received talks about CSS, covering topics such as C
 * [Contribution Guidelines](CONTRIBUTING.md)
 
 
+### 2020
+1. [**10 Modern Layouts in 1 Line of CSS**](https://www.youtube.com/watch?v=qm0IfG1GyZU): Una Kravets, (Google Chrome Developers YouTube Channel) `21:38`
+
+
 ### 2019
 
 1. [**Build a Classic Layout FAST in CSS Grid**](https://www.youtube.com/watch?v=KOvGeFUHAC0): Miriam Suzanne, (Mozilla Developer YouTube Channel) `8:29`
