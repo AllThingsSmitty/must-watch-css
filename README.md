@@ -18,6 +18,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 
 ### 2019
 
+1. [**CSS Algorithms**](https://www.youtube.com/watch?v=dxY5CdZNzsk): Lara Schenck, Strange Loop Conference `36:18`
 1. [**Build a Classic Layout FAST in CSS Grid**](https://www.youtube.com/watch?v=KOvGeFUHAC0): Miriam Suzanne, (Mozilla Developer YouTube Channel) `8:29`
 1. [**CSS Animation - Beyond Transitions**](https://www.youtube.com/watch?v=TYlA-eolzLs): Steven Roberts, CSSConf Budapest `28:01`
 1. [**Using Devtools to Understand Modern CSS Layouts**](https://www.youtube.com/watch?v=ZRtzk0371tk): Chen Hui Jing, CSSConf EU `32:39`
