@@ -14,6 +14,7 @@ This is a collection of well-received talks about CSS covering topics such as CS
 
 ### 2022
 1. [**CSS Variable Secrets**](https://www.youtube.com/watch?v=ZuZizqDF4q8): Lea Verou, CSS Day `59:06`
+1. [**Oh Snap!**](https://www.youtube.com/watch?v=34zcWFLCDIc): Adam Argyle, CSS Day `49:46`
 
 
 ### 2020
