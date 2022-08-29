@@ -15,7 +15,7 @@ This is a collection of well-received talks about CSS covering topics such as CS
 ### 2022
 1. [**CSS Variable Secrets**](https://www.youtube.com/watch?v=ZuZizqDF4q8): Lea Verou, CSS Day `59:06`
 1. [**Oh Snap!**](https://www.youtube.com/watch?v=34zcWFLCDIc): Adam Argyle, CSS Day `49:46`
-
+1. [**CSS State**](https://www.youtube.com/watch?v=Xy9ZXRRgpLk&ab_channel=GoogleChromeDevelopers): Adam Argyle, Google Chrome Developer `18:53`
 
 ### 2020
 1. [**10 Modern Layouts in 1 Line of CSS**](https://www.youtube.com/watch?v=qm0IfG1GyZU): Una Kravets, (Google Chrome Developers YouTube Channel) `21:38`
