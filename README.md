@@ -11,6 +11,9 @@ This is a collection of well-received talks about CSS covering topics such as CS
 
 * [Contribution Guidelines](CONTRIBUTING.md)
 
+### 2023
+1. [**Top 10 CSS Features You Should Know & Use in 2023**](https://www.youtube.com/watch?v=srzsj3xtHMM): Lukas | Web Development & Design `19:55`
+
 
 ### 2022
 1. [**CSS Variable Secrets**](https://www.youtube.com/watch?v=ZuZizqDF4q8): Lea Verou, CSS Day `59:06`
