@@ -17,11 +17,11 @@ This is a collection of well-received talks about CSS covering topics such as CS
 1. [**Oh Snap!**](https://www.youtube.com/watch?v=34zcWFLCDIc): Adam Argyle, CSS Day `49:46`
 
 
-### 2020
+### 2020 
 1. [**10 Modern Layouts in 1 Line of CSS**](https://www.youtube.com/watch?v=qm0IfG1GyZU): Una Kravets, (Google Chrome Developers YouTube Channel) `21:38`
 
 
-### 2019
+### 2019 
 
 1. [**CSS Algorithms**](https://www.youtube.com/watch?v=dxY5CdZNzsk): Lara Schenck, Strange Loop Conference `36:18`
 1. [**Build a Classic Layout FAST in CSS Grid**](https://www.youtube.com/watch?v=KOvGeFUHAC0): Miriam Suzanne, (Mozilla Developer YouTube Channel) `8:29`
@@ -30,22 +30,22 @@ This is a collection of well-received talks about CSS covering topics such as CS
 1. [**Hello Subgrid!**](https://www.youtube.com/watch?v=vxOj7CaWiPU): Rachel Andrew, CSSConf EU `32:56`
 
 
-### 2018
+### 2018 
 
 1. [**Resilient CSS: How to Write CSS That Works in Every Browser, Even the Old Ones**](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/): Jen Simmons (Layout Land playlist) `55:04`
 1. [**Creative Text Effects with CSS**](https://www.youtube.com/watch?v=9EU7urOl1LE): Mandy Michael, Talk.CSS `40:46`
 1. [**Learn CSS Grid**](https://www.youtube.com/watch?v=DCZdCKjnBCs&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Wes Bos, Laracon `44:59`
 
 
-### 2017
+### 2017 
 
 1. [**CSS Grid Layout**](https://www.youtube.com/watch?v=N5Lt1SLqBmQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Rachel Andrew, Frontend NE `59:14`
 1. [**The Power of CSS**](https://www.youtube.com/watch?v=IRI1H5tyEAo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Una Kravets, Front-Trends `30:57`
 1. [**CSS and the First Meaningful Paint**](https://www.youtube.com/watch?v=4pQ2byAoIX0&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Patrick Hamann, CSSConf EU `37:56`
-1. [**CSS Grid in Production**](https://www.youtube.com/watch?v=_BCiiE31D5M&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Benjamin De Cock, dotCSS `16:05`
+1. [**CSS Grid in Production**](https://www.youtube.com/watch?v=_BCiiE31D5M&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Benjamin De Cock, dot CSS `16:05`
 
 
-### 2016
+### 2016 
 
 1. [**CSS in 2016 and Beyond**](https://www.youtube.com/watch?v=9AG35HCBpo4&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Christian Vuerings, SFHTML5 `17:15`
 1. [**Laying out the Future with Grid and Flexbox**](https://www.youtube.com/watch?v=ibeF6rbzD70&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Rachel Andrew, View Source Conference `25:45`
@@ -53,7 +53,7 @@ This is a collection of well-received talks about CSS covering topics such as CS
 1. [**Practical Blend Modes in CSS**](https://vimeo.com/184235576): Una Kravets, SmashingConf Freiburg `47:04`
 1. [**Real Art Direction on the Web**](https://www.youtube.com/watch?v=5Z7lSSMwRgo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Jen Simmons, View Source Conference `31:41`
 1. [**You Might Not Need a CSS Framework**](https://www.youtube.com/watch?v=5FdHqVDlXu0&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Belen Albeza, View Source Conference `22:46`
-1. [**The Dark Side of Polyfilling CSS**](https://www.youtube.com/watch?v=ZskP7cvj3WA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Philip Walton, dotCSS `22:57`
+1. [**The Dark Side of Polyfilling CSS**](https://www.youtube.com/watch?v=ZskP7cvj3WA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Philip Walton, dot CSS `22:57`
 
 
 ### 2015
@@ -68,10 +68,10 @@ This is a collection of well-received talks about CSS covering topics such as CS
 1. [**CSS for Software Engineers for CSS Developers**](https://vimeo.com/140641366): Harry Roberts, SmashingConf Freiburg `51:14`
 1. [**Photoshop Is Dead!: Editing Images in CSS**](https://www.youtube.com/watch?v=LY65F2e4B5w&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Una Kravets, CSSConf EU `28:42`
 1. [**Enhancing Responsiveness With Flexbox**](https://www.youtube.com/watch?v=_98SE8WUvLk&index=10&list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9): Zoe M. Gillenwater, CSSConf EU `37:13`
-1. [**Move Slow and Fix Things**](https://www.youtube.com/watch?v=zmjfh099zYg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Daniel Eden, dotCSS `15:06`
+1. [**Move Slow and Fix Things**](https://www.youtube.com/watch?v=zmjfh099zYg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Daniel Eden, dot CSS `15:06`
 
 
-### 2014
+### 2014 
 
 1. [**What Is a CSS Framework Anyway?**](https://vimeo.com/95734680): Harry Roberts, Industry Conf `48:48`
 1. [**CSS Is a Mess**](https://vimeo.com/99877232): Jonathan Snook, Beyond Tellerand `53:49`
@@ -84,7 +84,7 @@ This is a collection of well-received talks about CSS covering topics such as CS
 1. [**CSS and the Critical Path**](https://www.youtube.com/watch?v=_0Fk85to6hA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Patrick Hamann, CSSConf EU `33:42`
 1. [**All the Right Moves: How to Put Your UI in Motion**](http://new.livestream.com/accounts/6779986/events/2928486/videos/51426837): Val Head, Multi-Mania `45:49`
 1. [**Present and Future of CSS Layout**](https://vimeo.com/98746172): Tab Atkins, CSS Day `49:31`
-1. [**Thinking Beyond "Scalable CSS"**](https://www.youtube.com/watch?v=L8w3v9m6G04&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Nicolas Gallagher, dotCSS `28:46`
+1. [**Thinking Beyond "Scalable CSS"**](https://www.youtube.com/watch?v=L8w3v9m6G04&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Nicolas Gallagher, dot CSS `28:46`
 1. [**Web Components & the Future of CSS**](https://www.youtube.com/watch?v=QHxrr6Q82yI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Philip Walton, SFHTML5 `40:02`
 1. [**CSS Performance Tooling**](https://www.youtube.com/watch?v=FEs2jgZBaQA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Addy Osmani, CSSConf EU `46:27`
 1. [**3.14 Things I Didn’t Know About CSS**](https://vimeo.com/100264064): Mathias Bynens, CSS Day `45:35`
@@ -104,7 +104,7 @@ This is a collection of well-received talks about CSS covering topics such as CS
 1. [**The Humble Border-Radius**](https://www.youtube.com/watch?v=2iFw2GCOPj0&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, Future of Web Design `37:07`
 1. [**Sass and OOCSS Sitting in a Tree K-I-S-S-I-N-G**](https://vimeo.com/66039168): Nicole Sullivan, TXJS `27:50`
 1. [**Architecting Scalable CSS**](https://vimeo.com/70041549): Harry Roberts, Beyond Tellerand `41:57`
-1. [**More CSS Secrets: Another 10 Things You May Not Know about CSS**](https://www.youtube.com/watch?v=3ikye7Qc7Ak&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, W3Conf `60:39`
+1. [**More CSS Secrets: Another 10 Things You May Not Know About CSS**](https://www.youtube.com/watch?v=3ikye7Qc7Ak&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, W3Conf `60:39`
 
 
 ### 2012
