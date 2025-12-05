@@ -26,7 +26,7 @@ This is a collection of well-received talks about CSS covering topics such as CS
 
 ### 2020
 
-1. [**10 Modern Layouts in 1 Line of CSS**](https://www.youtube.com/watch?v=qm0IfG1GyZU): Una Kravets, (Google Chrome Developers YouTube Channel) `21:38`
+1. [**10 Modern Layouts in 1 Line of CSS**](https://www.youtube.com/watch?v=qm0IfG1GyZU): Una Kravets, (YouTube Channel) `21:38`
 
 ### 2019
 
