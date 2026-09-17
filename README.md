@@ -11,8 +11,13 @@ This is a collection of well-received talks about CSS covering topics such as CS
 
 - [Contribution Guidelines](CONTRIBUTING.md)
 
+### 2026
+
+1. [**Modern UI Patterns**](https://www.youtube.com/watch?v=8FSLsVAJj2w): Una Kravets, CSS Day 2026 `53:40`
+
 ### 2025
 
+1. [**CSS Tried to Come for My Job**](https://www.youtube.com/watch?v=rPXSDuGev8g): Cyd Stumpel, CSS Day 2025, `44:39`
 1. [**25 New & Rad Feature of CSS**](https://www.youtube.com/watch?v=QW6GECIzvsw): Adam Argyle, CascadiaJS `30:03`
 
 ### 2024
