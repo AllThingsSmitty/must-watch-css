@@ -4,7 +4,7 @@
 
 # Must-Watch CSS [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-This is a collection of well-received talks about CSS covering topics such as CSS Grid, flexbox, custom variables, performance, frameworks, Sass, tooling, and more.
+This is a collection of well-received talks about CSS covering topics such as CSS Grid, flexbox, custom variables, performance, frameworks, tooling, and more.
 
 > [!TIP]
 > **Like JavaScript? Check out [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)!**
